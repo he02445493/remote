@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.aspect-[3/4] {
+  aspect-ratio: 3/4;
+}
